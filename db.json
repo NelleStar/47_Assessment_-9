@@ -27,6 +27,34 @@
       "description": "Crisp!",
       "recipe": "Open can.",
       "serve": "Immediately."
+    },
+    {
+      "id": "edc8",
+      "name": "Ginger Tea",
+      "description": "Hot ginger tea",
+      "recipe": "hot water and tea bag",
+      "serve": "serve immediately"
+    },
+    {
+      "id": "a0e1",
+      "name": "water",
+      "description": "its water",
+      "recipe": "hydrogen and oxygen",
+      "serve": "clean"
+    },
+    {
+      "id": "9a9a",
+      "name": "Tardar Sauce",
+      "description": "dance music",
+      "recipe": "hot water and tea bag",
+      "serve": "however you want"
+    },
+    {
+      "id": "3299",
+      "name": "Tardar Sauce",
+      "description": "dance music",
+      "recipe": "hot water and tea bag",
+      "serve": "however you want"
     }
   ],
   "snacks": [
@@ -50,6 +78,76 @@
       "description": "Tart and delicious.",
       "recipe": "Mix arugula, toasted walnuts, and thinly-sliced Parmesan cheese. Dress with lemon and olive oil.",
       "serve": "Place on tiny, precious little plates."
+    },
+    {
+      "id": "f838",
+      "name": "popcorn",
+      "description": "popped corn kernels",
+      "recipe": "oil and popcorn",
+      "serve": "serve with salt and butter"
+    },
+    {
+      "id": "b085",
+      "name": "popcorn",
+      "description": "popped corn kernels",
+      "recipe": "oil and popcorn",
+      "serve": "serve with salt and butter"
+    },
+    {
+      "id": "7cf6",
+      "name": "popcorn",
+      "description": "popped corn kernels",
+      "recipe": "oil and popcorn",
+      "serve": "serve with salt and butter"
+    },
+    {
+      "id": "2c80",
+      "name": "Bread",
+      "description": "its bread",
+      "recipe": "flour, water, salt, yeast",
+      "serve": "however you want"
+    },
+    {
+      "id": "72dd",
+      "name": "cookie",
+      "description": "its a cookie",
+      "recipe": "flour water cookie",
+      "serve": "warm"
+    },
+    {
+      "id": "bd1f",
+      "name": "cookie",
+      "description": "its a cookie",
+      "recipe": "flour water cookie",
+      "serve": "warm"
+    },
+    {
+      "id": "264e",
+      "name": "cookie",
+      "description": "its a cookie",
+      "recipe": "flour water cookie",
+      "serve": "warm"
+    },
+    {
+      "id": "b9b8",
+      "name": "cookie",
+      "description": "its a cookie",
+      "recipe": "flour water cookie",
+      "serve": "warm"
+    },
+    {
+      "id": "3599",
+      "name": "cookie",
+      "description": "its a cookie",
+      "recipe": "flour water cookie",
+      "serve": "warm"
+    },
+    {
+      "id": "8a52",
+      "name": "cookie",
+      "description": "its a cookie",
+      "recipe": "flour water cookie",
+      "serve": "warm"
     }
   ]
 }
